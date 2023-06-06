@@ -16,3 +16,9 @@ This is a touching piano using Arduino and Processing.
 3. Equipped with metronome function! Adjustable from 0 to 200 bpm with a dial.
 
 ![pic_03](Picture/image3.png)
+
+## Musical Performance
+Performance of "When You Wish Upon a Star"
+
+https://github.com/YUKINA-3252/Arduino-Music-Box/assets/92411373/34baf3d4-783a-41c5-a765-48e18e3677d7
+
