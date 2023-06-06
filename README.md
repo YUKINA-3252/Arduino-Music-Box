@@ -9,10 +9,10 @@ This is a touching piano using Arduino and Processing.
 
 ![pic_01](Picture/image1.png)
 
-1. Visualization of touched note keys with red circles using OpenGL via Processing.
+2. Visualization of touched note keys with red circles using OpenGL via Processing.
 
 ![pic_02](Picture/image2.png)
 
-1. Equipped with metronome function! Adjustable from 0 to 200 bpm with a dial.
+3. Equipped with metronome function! Adjustable from 0 to 200 bpm with a dial.
 
 ![pic_03](Picture/image3.png)
